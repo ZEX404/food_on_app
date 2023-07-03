@@ -1,16 +1,18 @@
-# food_on_app
 
-A new Flutter project.
+<h1 align="center">
+  <br>
+  <a href="https://github.com/ZEX404/food_on_app"><img src="https://raw.githubusercontent.com/ZEX404/food_on_app/main/assets/images/logo.png" alt="FoodOn" width="200"></a>
+  <br>
+  FoodOn
+  <br>
+  <br>
+</h1>
 
-## Getting Started
+<h4 align="center">A Flutter project developed by <a href="https://github.com/ZEX404/food_on_app" target="_blank">Devly</a>.</h4>
 
-This project is a starting point for a Flutter application.
+```bash
+# Clone this repository
+$ git clone https://github.com/ZEX404/food_on_app.git
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
