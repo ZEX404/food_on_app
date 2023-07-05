@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Flutter project developed by <a href="https://github.com/ZEX404/food_on_app" target="_blank">Devly</a>.</h4>
+<h4 align="center">A Flutter project developed by <a href="https://devly.byethost13.com/" target="_blank">Devly</a>.</h4>
 
 ```bash
 # Clone this repository
