@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_on/presentation/screens/onboarding/onboarding_screen.dart';
+import 'presentation/screens/onboarding/onboarding_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
