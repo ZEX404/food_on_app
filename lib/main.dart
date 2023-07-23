@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'presentation/screens/home_screen.dart';
+import 'package:food_on/presentation/screens/onboarding/onboarding_screen.dart';
 
 void main() {
-  WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
-  FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
@@ -19,11 +17,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         scaffoldBackgroundColor: Colors.white,
-        textTheme: const TextTheme(
-          titleMedium: TextStyle(fontFamily: 'carter-one', fontSize: 36),
-        ),
+        fontFamily: 'carter-one',
       ),
-      home: const HomeScreen(),
+      home: const OnBoardingScreen(),
     );
   }
 }
